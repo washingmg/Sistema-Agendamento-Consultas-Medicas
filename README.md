@@ -1,2 +1,2 @@
-# Sistema_Agendamento-Consultas-Medicas
-Medical appointment scheduling system
+# Sistema Agendamento Consultas Medicas
+**Projeto da matéria de POO**
